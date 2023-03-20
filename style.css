@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rebeccapurple;
+    background-color: rgb(251, 31, 196);
     display: grid;
     place-items: center;
     height: 100vh;
@@ -52,7 +52,7 @@ input{
 
 .login-btn{
     border: none;
-    background-color: green;
+    background-color: rgb(255, 59, 59);
     color: #fff;
     font-size: 20px;
     padding: 10px;
